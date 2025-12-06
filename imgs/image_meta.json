@@ -1,0 +1,992 @@
+[
+  {
+    "query": "Responsive food website on mobile devices",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/2CiAPqRI7oA/maxresdefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 157324,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9354597501107323,
+      "file_name": "responsive_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Responsive food website on mobile devices",
+    "image_info": {
+      "url": "https://htmlburger.com/blog/wp-content/uploads/2024/12/suerte-minimal-mobile-website-design-for-mexican-restauran.webp",
+      "img_format": "WEBP",
+      "mode": "RGBA",
+      "file_size": 71368,
+      "width": 1064,
+      "height": 700,
+      "total_pixels": 744800,
+      "basic_score": 0.9178951909810968,
+      "file_name": "responsive_4.webp"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Responsive food website on mobile devices",
+    "image_info": {
+      "url": "https://htmlburger.com/blog/wp-content/uploads/2024/12/colletta-inviting-mobile-web-design-for-modern-italian-restaurant.webp",
+      "img_format": "WEBP",
+      "mode": "RGBA",
+      "file_size": 70430,
+      "width": 1064,
+      "height": 700,
+      "total_pixels": 744800,
+      "basic_score": 0.9177953541623348,
+      "file_name": "responsive_7.webp"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Food menu grid layout website",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/MJUssi2c6Ls/maxresdefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 140907,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.933902683402685,
+      "file_name": "menu_page_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Food menu grid layout website",
+    "image_info": {
+      "url": "https://graphicdesigneye.com/images/restaurant-website-menu-design-service.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 117531,
+      "width": 1200,
+      "height": 750,
+      "total_pixels": 900000,
+      "basic_score": 0.928385977711476,
+      "file_name": "menu_page_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Food menu grid layout website",
+    "image_info": {
+      "url": "https://s14308.pcdn.co/wp-content/uploads/2022/07/good-vibes-restaurant-menu-1024x576.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 395629,
+      "width": 1024,
+      "height": 576,
+      "total_pixels": 589824,
+      "basic_score": 0.8965512714706274,
+      "file_name": "menu_page_9.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Modern food ordering website homepage with hero section",
+    "image_info": {
+      "url": "https://themindstudios.com/blog/content/images/2022/03/UX-Design.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 118606,
+      "width": 1440,
+      "height": 844,
+      "total_pixels": 1215360,
+      "basic_score": 0.9250548894600974,
+      "file_name": "homepage_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Modern food ordering website homepage with hero section",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/14032678/file/original-eebdb9965db4214afda153a0a9262ffc.png?format=webp&resize=1440x&vertical=center",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 129322,
+      "width": 1440,
+      "height": 1080,
+      "total_pixels": 1555200,
+      "basic_score": 0.8755202883879228,
+      "file_name": "homepage_1.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Modern food ordering website homepage with hero section",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/users/4646232/screenshots/19869015/media/6d9a3b67f1899a33ccfa2a52697ab300.png?format=webp&resize=1440x&vertical=center",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 100218,
+      "width": 1440,
+      "height": 1080,
+      "total_pixels": 1555200,
+      "basic_score": 0.8728738880178623,
+      "file_name": "homepage_7.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Login and registration form design",
+    "image_info": {
+      "url": "https://colorlib.com/wp/wp-content/uploads/sites/2/free-registration-forms.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 70875,
+      "width": 1200,
+      "height": 979,
+      "total_pixels": 1174800,
+      "basic_score": 0.9204749755895361,
+      "file_name": "login_page_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Login and registration form design",
+    "image_info": {
+      "url": "https://uxdworld.com/wp-content/uploads/2021/12/External-Accounts-Sign-Up-NEW-1024x725.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 71302,
+      "width": 1024,
+      "height": 725,
+      "total_pixels": 742400,
+      "basic_score": 0.8959410014102306,
+      "file_name": "login_page_6.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Login and registration form design",
+    "image_info": {
+      "url": "https://as2.ftcdn.net/jpg/03/51/38/19/1000_F_351381979_PVSNSTQ1yWk4TVovmYQsVqDmx0K2Wz3m.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 105977,
+      "width": 1000,
+      "height": 565,
+      "total_pixels": 565000,
+      "basic_score": 0.873934763544722,
+      "file_name": "login_page_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Shopping cart page for food ordering",
+    "image_info": {
+      "url": "https://elastic-path.transforms.svdcdn.com/production/images/Blog-Hero-Meta-Images/15-SHOPPING-CART-EXAMPLES_1024X577.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1721245183&s=84abbfaedb8892fd65c0612d09a202e1",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 226094,
+      "width": 1200,
+      "height": 630,
+      "total_pixels": 756000,
+      "basic_score": 0.90886260858867,
+      "file_name": "cart_page_1.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Shopping cart page for food ordering",
+    "image_info": {
+      "url": "https://blog.magezon.com/wp-content/uploads/2023/02/website-shopping-cart-page.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 72592,
+      "width": 795,
+      "height": 586,
+      "total_pixels": 465870,
+      "basic_score": 0.8344057760558609,
+      "file_name": "cart_page_4.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Shopping cart page for food ordering",
+    "image_info": {
+      "url": "https://cxl.com/wp-content/uploads/2019/05/image-1-1024x493.png",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 131378,
+      "width": 1024,
+      "height": 493,
+      "total_pixels": 504832,
+      "basic_score": 0.830384707288585,
+      "file_name": "cart_page_6.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Admin dashboard for restaurant management",
+    "image_info": {
+      "url": "https://yi-files.yellowimages.com/products/1313000/1313139/2167153-full.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 151681,
+      "width": 1170,
+      "height": 800,
+      "total_pixels": 936000,
+      "basic_score": 0.9365052084712779,
+      "file_name": "admin_dashboard_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Admin dashboard for restaurant management",
+    "image_info": {
+      "url": "https://yi-files.yellowimages.com/products/1313000/1313139/2167156-full.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 126064,
+      "width": 1170,
+      "height": 800,
+      "total_pixels": 936000,
+      "basic_score": 0.9340562772065233,
+      "file_name": "admin_dashboard_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Admin dashboard for restaurant management",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/28734457/file/original-8d5300a59dec73bbac98fd657405df5d.jpg?resize=752x&vertical=center",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 155016,
+      "width": 752,
+      "height": 564,
+      "total_pixels": 424128,
+      "basic_score": 0.8419446535457064,
+      "file_name": "admin_dashboard_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Hero banner image for Arabic restaurant",
+    "image_info": {
+      "url": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/arabic-cuisine-restaurant-menu-ad-design-template-2183f74d426133cefa21b31e4cad9dbd_screen.jpg?ts=1678468484",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 417863,
+      "width": 691,
+      "height": 691,
+      "total_pixels": 477481,
+      "basic_score": 0.8812003018959518,
+      "file_name": "hero_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Hero banner image for Arabic restaurant",
+    "image_info": {
+      "url": "https://c8.alamy.com/comp/2AG786D/arabic-food-and-middle-eastern-cuisine-dishes-banner-with-text-2AG786D.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 137228,
+      "width": 1300,
+      "height": 504,
+      "total_pixels": 655200,
+      "basic_score": 0.8427486932609326,
+      "file_name": "hero_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Hero banner image for Arabic restaurant",
+    "image_info": {
+      "url": "https://media.istockphoto.com/id/2158929543/vector/arabic-food-sketch-banners-middle-eastern-cuisine.jpg?s=612x612&w=is&k=20&c=k8i-1h2mfinK86P2xfckNjY3vJLN0onwnDdhaZCNTAw=",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 89361,
+      "width": 612,
+      "height": 596,
+      "total_pixels": 364752,
+      "basic_score": 0.8158436011016741,
+      "file_name": "hero_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional falafel and hummus plate",
+    "image_info": {
+      "url": "https://chefindisguise.com/wp-content/uploads/2013/05/falafel-chef-in-disguise.jpg?w=800",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 741137,
+      "width": 800,
+      "height": 1160,
+      "total_pixels": 928000,
+      "basic_score": 0.9451856064127827,
+      "file_name": "falafel_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional falafel and hummus plate",
+    "image_info": {
+      "url": "https://thefastrecipe.com/wp-content/uploads/2022/02/falafel-plate.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 265212,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.892439804690145,
+      "file_name": "falafel_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional falafel and hummus plate",
+    "image_info": {
+      "url": "https://ik.imagekit.io/munchery/blog/tr:w-768/falafel-a-humble-staple-in-middle-eastern-cuisine.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 553453,
+      "width": 768,
+      "height": 512,
+      "total_pixels": 393216,
+      "basic_score": 0.8669491702029017,
+      "file_name": "falafel_8.jpeg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional photo of Saudi Arabian Kabsa rice dish",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/knAK7GfmwoU/maxresdefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 335859,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9504435160224635,
+      "file_name": "kabsa_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional photo of Saudi Arabian Kabsa rice dish",
+    "image_info": {
+      "url": "https://nishkitchen.com/wp-content/uploads/2017/06/chicken-kabsa-2B.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 322646,
+      "width": 680,
+      "height": 986,
+      "total_pixels": 670480,
+      "basic_score": 0.905431899207423,
+      "file_name": "kabsa_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional photo of Saudi Arabian Kabsa rice dish",
+    "image_info": {
+      "url": "https://www.internationalcuisine.com/wp-content/uploads/2019/07/Al-Kabsa-680x1019.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 81563,
+      "width": 680,
+      "height": 1019,
+      "total_pixels": 692920,
+      "basic_score": 0.8845606750286833,
+      "file_name": "kabsa_0.jpeg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional shawarma Arabic food photo",
+    "image_info": {
+      "url": "https://dobbernationloves.com/wp-content/uploads/2020/08/Chicken-Shawarma-Plate-Recipe-15.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 150429,
+      "width": 1280,
+      "height": 854,
+      "total_pixels": 1093120,
+      "basic_score": 0.9383584441120759,
+      "file_name": "shawarma_2.jpeg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional shawarma Arabic food photo",
+    "image_info": {
+      "url": "https://www.pipercooks.com/wp-content/uploads/2022/07/chicken-shawarma-plate-10.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 173119,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.8849742844753886,
+      "file_name": "shawarma_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional shawarma Arabic food photo",
+    "image_info": {
+      "url": "https://www.shutterstock.com/shutterstock/photos/1837268842/display_1500/stock-photo-shawarma-plate-with-souce-table-arabic-food-sauce-1837268842.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 1732553,
+      "width": 1500,
+      "height": 1038,
+      "total_pixels": 1557000,
+      "basic_score": 0.8410421031301185,
+      "file_name": "shawarma_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional fattoush salad photo",
+    "image_info": {
+      "url": "https://feelgoodfoodie.net/wp-content/uploads/2023/09/Fattoush-Salad-TIMG.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 107236,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.8790882385675426,
+      "file_name": "fattoush_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional fattoush salad photo",
+    "image_info": {
+      "url": "https://littleferrarokitchen.com/wp-content/uploads/2024/07/fattoush-salad.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 95332,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.8779809259124031,
+      "file_name": "fattoush_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "Professional fattoush salad photo",
+    "image_info": {
+      "url": "https://www.eatingbirdfood.com/wp-content/uploads/2024/05/fattoush-salad-hero-new.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 315463,
+      "width": 1200,
+      "height": 1735,
+      "total_pixels": 2082000,
+      "basic_score": 0.6944072530707336,
+      "file_name": "fattoush_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "falafel with hummus plate",
+    "image_info": {
+      "url": "https://marleyspoon.com/media/recipes/260626/main_photos/large/falafel_platter_with_homemade_hummus-3fe5411363a050280a299ef7c78df806.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 146362,
+      "width": 1020,
+      "height": 680,
+      "total_pixels": 693600,
+      "basic_score": 0.9069125689717623,
+      "file_name": "falafel_2.jpeg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "falafel with hummus plate",
+    "image_info": {
+      "url": "https://thefastrecipe.com/wp-content/uploads/2022/02/falafel-plate.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 265212,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.892439804690145,
+      "file_name": "falafel_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "falafel with hummus plate",
+    "image_info": {
+      "url": "https://littleferrarokitchen.com/wp-content/uploads/2023/01/vegetarian-falafel-platter.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 140340,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.882098610936311,
+      "file_name": "falafel_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "professional photo of kabsa rice dish",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/knAK7GfmwoU/maxresdefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 335859,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9504435160224635,
+      "file_name": "kabsa_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "professional photo of kabsa rice dish",
+    "image_info": {
+      "url": "https://nishkitchen.com/wp-content/uploads/2017/06/chicken-kabsa-2B.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 322646,
+      "width": 680,
+      "height": 986,
+      "total_pixels": 670480,
+      "basic_score": 0.905431899207423,
+      "file_name": "kabsa_7.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "professional photo of kabsa rice dish",
+    "image_info": {
+      "url": "https://www.internationalcuisine.com/wp-content/uploads/2019/07/Al-Kabsa-680x1019.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 81563,
+      "width": 680,
+      "height": 1019,
+      "total_pixels": 692920,
+      "basic_score": 0.8845606750286833,
+      "file_name": "kabsa_4.jpeg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "kunafa dessert photo",
+    "image_info": {
+      "url": "https://albarakamarketnc.com/wp-content/uploads/2025/02/kunafa-dessert.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 174082,
+      "width": 1200,
+      "height": 800,
+      "total_pixels": 960000,
+      "basic_score": 0.9401415511620169,
+      "file_name": "kunafa_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "kunafa dessert photo",
+    "image_info": {
+      "url": "https://www.zenandzaatar.com/wp-content/uploads/2016/08/kanafa-drizzle-812x1024.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 56907,
+      "width": 812,
+      "height": 1024,
+      "total_pixels": 831488,
+      "basic_score": 0.9010884093440192,
+      "file_name": "kunafa_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "kunafa dessert photo",
+    "image_info": {
+      "url": "https://amiraspantry.com/wp-content/uploads/2020/11/kunafa-I.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 172967,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.8849612009853162,
+      "file_name": "kunafa_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "grilled chicken dish photo",
+    "image_info": {
+      "url": "https://www.fufuskitchen.com/wp-content/uploads/2022/03/gRILLED-CHICKEN.png",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 587689,
+      "width": 801,
+      "height": 1200,
+      "total_pixels": 961200,
+      "basic_score": 0.9296392254394775,
+      "file_name": "chicken_1.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "grilled chicken dish photo",
+    "image_info": {
+      "url": "https://www.fufuskitchen.com/wp-content/uploads/2022/03/GRILLED-CHICKEN-1.png",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 518028,
+      "width": 801,
+      "height": 1200,
+      "total_pixels": 961200,
+      "basic_score": 0.9267857842545574,
+      "file_name": "chicken_3.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "grilled chicken dish photo",
+    "image_info": {
+      "url": "https://www.recipesaresimple.com/wp-content/uploads/2016/02/arabian-grilled-chicken-djaj-mashwi.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 240939,
+      "width": 1000,
+      "height": 664,
+      "total_pixels": 664000,
+      "basic_score": 0.910326146472622,
+      "file_name": "chicken_5.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "delicious shawarma wrap photo",
+    "image_info": {
+      "url": "https://www.recipetineats.com/tachyon/2017/01/Chicken-Shawarma-Wrap_3.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 94012,
+      "width": 900,
+      "height": 1125,
+      "total_pixels": 1012500,
+      "basic_score": 0.9112770621614175,
+      "file_name": "shawarma_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "delicious shawarma wrap photo",
+    "image_info": {
+      "url": "https://mission-food.com/wp-content/uploads/2022/09/Chicken-Shawarma-Featured.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 223294,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.8891589771144811,
+      "file_name": "shawarma_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "delicious shawarma wrap photo",
+    "image_info": {
+      "url": "https://feelgoodfoodie.net/wp-content/uploads/2018/05/Beef-Shawarma-Wrap-7-1.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 48146,
+      "width": 640,
+      "height": 960,
+      "total_pixels": 614400,
+      "basic_score": 0.8683735618824981,
+      "file_name": "shawarma_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "professional photo of arabic kabsa rice dish",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/knAK7GfmwoU/maxresdefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 335859,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9504435160224635,
+      "file_name": "kabsa_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "professional photo of arabic kabsa rice dish",
+    "image_info": {
+      "url": "https://nishkitchen.com/wp-content/uploads/2017/06/chicken-kabsa-2B.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 322646,
+      "width": 680,
+      "height": 986,
+      "total_pixels": 670480,
+      "basic_score": 0.905431899207423,
+      "file_name": "kabsa_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "professional photo of arabic kabsa rice dish",
+    "image_info": {
+      "url": "https://www.thedeliciouscrescent.com/wp-content/uploads/2023/06/Chicken-Kabsa-5.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 155460,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.8834384672548353,
+      "file_name": "kabsa_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "delicious shawarma wrap photo",
+    "image_info": {
+      "url": "https://hadiaslebanesecuisine.com/blog/wp-content/uploads/2024/09/cs1.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 630716,
+      "width": 900,
+      "height": 900,
+      "total_pixels": 810000,
+      "basic_score": 0.9526240787249307,
+      "file_name": "shawarma_6.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "delicious shawarma wrap photo",
+    "image_info": {
+      "url": "https://timskitchen.com.hk/wp-content/uploads/2025/02/arabic-chicken-shawarma-sandwich-recipe-1739402560.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 277154,
+      "width": 1500,
+      "height": 1000,
+      "total_pixels": 1500000,
+      "basic_score": 0.8922529367070485,
+      "file_name": "shawarma_1.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "delicious shawarma wrap photo",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/G0h81EUKW7M/sddefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 65308,
+      "width": 640,
+      "height": 480,
+      "total_pixels": 307200,
+      "basic_score": 0.7930155687759565,
+      "file_name": "shawarma_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "falafel dish with hummus",
+    "image_info": {
+      "url": "https://thelebaneseplate.com/product_images/uploaded_images/falafel-0004.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 453874,
+      "width": 927,
+      "height": 1200,
+      "total_pixels": 1112400,
+      "basic_score": 0.9343606194801248,
+      "file_name": "falafel_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "falafel dish with hummus",
+    "image_info": {
+      "url": "https://thefastrecipe.com/wp-content/uploads/2022/02/falafel-plate.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 265212,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.892439804690145,
+      "file_name": "falafel_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "falafel dish with hummus",
+    "image_info": {
+      "url": "https://sinfulkitchen.com/wp-content/uploads/2023/02/Falaflel-on-a-plate.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 82872,
+      "width": 1200,
+      "height": 1200,
+      "total_pixels": 1440000,
+      "basic_score": 0.8768083888689905,
+      "file_name": "falafel_8.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "mansaf traditional dish",
+    "image_info": {
+      "url": "https://www.fufuskitchen.com/wp-content/uploads/2023/08/F799E39E-7880-43CD-8DD1-204C60DCF56F.png",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 597723,
+      "width": 800,
+      "height": 1200,
+      "total_pixels": 960000,
+      "basic_score": 0.9299107628204881,
+      "file_name": "mansaf_6.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "mansaf traditional dish",
+    "image_info": {
+      "url": "https://www.cheftariq.com/wp-content/uploads/2020/04/mansaf-4-1.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 167001,
+      "width": 1024,
+      "height": 1536,
+      "total_pixels": 1572864,
+      "basic_score": 0.8238010506743164,
+      "file_name": "mansaf_2.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "mansaf traditional dish",
+    "image_info": {
+      "url": "https://i.ytimg.com/vi/EFyMIQNjkec/sddefault.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 49189,
+      "width": 640,
+      "height": 480,
+      "total_pixels": 307200,
+      "basic_score": 0.7907796148370246,
+      "file_name": "mansaf_9.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "grilled chicken middle eastern",
+    "image_info": {
+      "url": "https://www.fufuskitchen.com/wp-content/uploads/2022/03/gRILLED-CHICKEN.png",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 587689,
+      "width": 801,
+      "height": 1200,
+      "total_pixels": 961200,
+      "basic_score": 0.9296392254394775,
+      "file_name": "chicken_4.png"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "grilled chicken middle eastern",
+    "image_info": {
+      "url": "https://cosetteskitchen.com/wp-content/uploads/2024/04/grilledchicken_final_plateofcookedchicken.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 253723,
+      "width": 960,
+      "height": 1200,
+      "total_pixels": 1152000,
+      "basic_score": 0.9181956426512254,
+      "file_name": "chicken_3.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "grilled chicken middle eastern",
+    "image_info": {
+      "url": "https://eatingeuropean.com/wp-content/uploads/2017/06/Chicken-shawarma-2.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 75486,
+      "width": 680,
+      "height": 1021,
+      "total_pixels": 694280,
+      "basic_score": 0.8840096779076422,
+      "file_name": "chicken_0.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "arabic restaurant food banner",
+    "image_info": {
+      "url": "https://tb-static.uber.com/prod/image-proc/processed_images/250c0ea78764e59bceac2d6303cad3d1/7915c4a78a9f94ed56316c7c4dc0ec89.jpeg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 67906,
+      "width": 550,
+      "height": 440,
+      "total_pixels": 242000,
+      "basic_score": 0.7683145635922164,
+      "file_name": "hero_0.jpeg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "arabic restaurant food banner",
+    "image_info": {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/UVe7EDQAADz4OHciCEq20w/348s.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 60983,
+      "width": 348,
+      "height": 348,
+      "total_pixels": 121104,
+      "basic_score": 0.7230101305943357,
+      "file_name": "hero_4.jpg"
+    },
+    "llm_score": null
+  },
+  {
+    "query": "arabic restaurant food banner",
+    "image_info": {
+      "url": "https://s3-media0.fl.yelpcdn.com/bphoto/FnZXNFp_iQFQHmo1fFcCAA/348s.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 41048,
+      "width": 348,
+      "height": 348,
+      "total_pixels": 121104,
+      "basic_score": 0.7187183649237282,
+      "file_name": "hero_9.jpg"
+    },
+    "llm_score": null
+  }
+]
